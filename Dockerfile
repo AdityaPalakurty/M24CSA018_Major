@@ -17,7 +17,7 @@ COPY . .
 EXPOSE 5000
 
 # Run main app
-CMD ["python", "main.py"]
+CMD ["python", "code.py"]
 """
 
 # docker-compose.yml
