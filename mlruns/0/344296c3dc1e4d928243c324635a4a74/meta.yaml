@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/344296c3dc1e4d928243c324635a4a74/artifacts
+deleted_time: 1731396266084
+end_time: 1731395673266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 344296c3dc1e4d928243c324635a4a74
+run_name: charming-eel-777
+run_uuid: 344296c3dc1e4d928243c324635a4a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395668929
+status: 3
+tags: []
+user_id: aditya

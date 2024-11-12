@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/5f77053b473d430aa9d2eaac01eda7ff/artifacts
+deleted_time: 1731395342227
+end_time: 1731394940913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5f77053b473d430aa9d2eaac01eda7ff
+run_name: gentle-fawn-111
+run_uuid: 5f77053b473d430aa9d2eaac01eda7ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394940900
+status: 3
+tags: []
+user_id: aditya

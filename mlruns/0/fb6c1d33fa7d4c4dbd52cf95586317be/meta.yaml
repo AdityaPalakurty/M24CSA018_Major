@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/fb6c1d33fa7d4c4dbd52cf95586317be/artifacts
+deleted_time: 1731395475061
+end_time: 1731395132660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb6c1d33fa7d4c4dbd52cf95586317be
+run_name: burly-midge-1
+run_uuid: fb6c1d33fa7d4c4dbd52cf95586317be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395128961
+status: 3
+tags: []
+user_id: aditya

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/06aa4e69c6c3419a80b21828ef018341/artifacts
+deleted_time: 1731396272946
+end_time: 1731395496299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 06aa4e69c6c3419a80b21828ef018341
+run_name: angry-bird-19
+run_uuid: 06aa4e69c6c3419a80b21828ef018341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395494109
+status: 3
+tags: []
+user_id: aditya

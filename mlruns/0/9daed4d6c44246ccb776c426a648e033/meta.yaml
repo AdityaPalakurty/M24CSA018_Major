@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/9daed4d6c44246ccb776c426a648e033/artifacts
+deleted_time: 1731395482020
+end_time: 1731395299068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9daed4d6c44246ccb776c426a648e033
+run_name: dazzling-crow-362
+run_uuid: 9daed4d6c44246ccb776c426a648e033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395296826
+status: 3
+tags: []
+user_id: aditya

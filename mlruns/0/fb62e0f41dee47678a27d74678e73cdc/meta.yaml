@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/fb62e0f41dee47678a27d74678e73cdc/artifacts
+end_time: 1731396297216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb62e0f41dee47678a27d74678e73cdc
+run_name: burly-crow-970
+run_uuid: fb62e0f41dee47678a27d74678e73cdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396297163
+status: 3
+tags: []
+user_id: aditya

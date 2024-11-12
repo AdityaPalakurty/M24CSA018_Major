@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/ba27d3051a364caab442a494700ca6f5/artifacts
+deleted_time: 1731396266091
+end_time: 1731395748135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba27d3051a364caab442a494700ca6f5
+run_name: charming-hare-3
+run_uuid: ba27d3051a364caab442a494700ca6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395743682
+status: 3
+tags: []
+user_id: aditya

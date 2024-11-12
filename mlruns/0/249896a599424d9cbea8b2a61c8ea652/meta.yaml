@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/249896a599424d9cbea8b2a61c8ea652/artifacts
+deleted_time: 1731396266094
+end_time: 1731395730807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 249896a599424d9cbea8b2a61c8ea652
+run_name: monumental-cod-315
+run_uuid: 249896a599424d9cbea8b2a61c8ea652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395726403
+status: 3
+tags: []
+user_id: aditya

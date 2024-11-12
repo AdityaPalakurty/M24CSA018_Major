@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/6147db6b16d941a28de771082f069ee2/artifacts
+deleted_time: 1731396272925
+end_time: 1731395673264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6147db6b16d941a28de771082f069ee2
+run_name: bald-vole-200
+run_uuid: 6147db6b16d941a28de771082f069ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395671090
+status: 3
+tags: []
+user_id: aditya

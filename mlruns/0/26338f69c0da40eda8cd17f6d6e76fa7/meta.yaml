@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/26338f69c0da40eda8cd17f6d6e76fa7/artifacts
+deleted_time: 1731396272921
+end_time: 1731395748134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 26338f69c0da40eda8cd17f6d6e76fa7
+run_name: blushing-newt-93
+run_uuid: 26338f69c0da40eda8cd17f6d6e76fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395745877
+status: 3
+tags: []
+user_id: aditya

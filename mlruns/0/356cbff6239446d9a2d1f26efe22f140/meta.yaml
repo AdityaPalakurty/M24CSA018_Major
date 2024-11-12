@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/356cbff6239446d9a2d1f26efe22f140/artifacts
+deleted_time: 1731394987823
+end_time: 1731394694933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 356cbff6239446d9a2d1f26efe22f140
+run_name: nebulous-lark-523
+run_uuid: 356cbff6239446d9a2d1f26efe22f140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394692372
+status: 4
+tags: []
+user_id: aditya

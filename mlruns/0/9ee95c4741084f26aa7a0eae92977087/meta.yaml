@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/9ee95c4741084f26aa7a0eae92977087/artifacts
+end_time: 1731396294594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ee95c4741084f26aa7a0eae92977087
+run_name: invincible-loon-294
+run_uuid: 9ee95c4741084f26aa7a0eae92977087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396292318
+status: 3
+tags: []
+user_id: aditya

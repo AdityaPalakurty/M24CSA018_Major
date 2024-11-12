@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/75d33418ce55457387e3cf55525c007f/artifacts
+deleted_time: 1731395342217
+end_time: 1731395132661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 75d33418ce55457387e3cf55525c007f
+run_name: clumsy-shrike-852
+run_uuid: 75d33418ce55457387e3cf55525c007f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395126855
+status: 3
+tags: []
+user_id: aditya

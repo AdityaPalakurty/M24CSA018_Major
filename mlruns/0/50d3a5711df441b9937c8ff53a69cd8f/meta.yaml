@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/50d3a5711df441b9937c8ff53a69cd8f/artifacts
+deleted_time: 1731396272946
+end_time: 1731395498641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 50d3a5711df441b9937c8ff53a69cd8f
+run_name: popular-horse-790
+run_uuid: 50d3a5711df441b9937c8ff53a69cd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395496301
+status: 3
+tags: []
+user_id: aditya

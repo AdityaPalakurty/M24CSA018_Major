@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/8031d3928a2e41b7b219863395b4b0a8/artifacts
+deleted_time: 1731396266060
+end_time: 1731395748154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8031d3928a2e41b7b219863395b4b0a8
+run_name: languid-hen-372
+run_uuid: 8031d3928a2e41b7b219863395b4b0a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395748141
+status: 3
+tags: []
+user_id: aditya

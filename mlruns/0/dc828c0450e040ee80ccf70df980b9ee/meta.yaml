@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/dc828c0450e040ee80ccf70df980b9ee/artifacts
+deleted_time: 1731395475074
+end_time: 1731394938728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dc828c0450e040ee80ccf70df980b9ee
+run_name: melodic-wren-374
+run_uuid: dc828c0450e040ee80ccf70df980b9ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394936709
+status: 3
+tags: []
+user_id: aditya

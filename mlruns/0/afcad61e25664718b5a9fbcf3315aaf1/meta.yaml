@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/afcad61e25664718b5a9fbcf3315aaf1/artifacts
+deleted_time: 1731395475047
+end_time: 1731395301292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: afcad61e25664718b5a9fbcf3315aaf1
+run_name: abundant-dove-122
+run_uuid: afcad61e25664718b5a9fbcf3315aaf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395301282
+status: 3
+tags: []
+user_id: aditya

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/b96971fd9c0a4830aad531d93096b180/artifacts
+deleted_time: 1731395475077
+end_time: 1731394940889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b96971fd9c0a4830aad531d93096b180
+run_name: dapper-smelt-69
+run_uuid: b96971fd9c0a4830aad531d93096b180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394938730
+status: 3
+tags: []
+user_id: aditya

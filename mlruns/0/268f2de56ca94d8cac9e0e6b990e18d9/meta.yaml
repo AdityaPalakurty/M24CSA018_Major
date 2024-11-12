@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/268f2de56ca94d8cac9e0e6b990e18d9/artifacts
+deleted_time: 1731395482017
+end_time: 1731395301272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 268f2de56ca94d8cac9e0e6b990e18d9
+run_name: victorious-panda-520
+run_uuid: 268f2de56ca94d8cac9e0e6b990e18d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395299070
+status: 3
+tags: []
+user_id: aditya

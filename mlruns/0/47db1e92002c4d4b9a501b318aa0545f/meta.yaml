@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/47db1e92002c4d4b9a501b318aa0545f/artifacts
+deleted_time: 1731395342233
+end_time: 1731394940890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 47db1e92002c4d4b9a501b318aa0545f
+run_name: adorable-dove-404
+run_uuid: 47db1e92002c4d4b9a501b318aa0545f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394936703
+status: 3
+tags: []
+user_id: aditya

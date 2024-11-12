@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/064e13badb2b46979e8b0c9e0db921cc/artifacts
+deleted_time: 1731396272914
+end_time: 1731395745876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 064e13badb2b46979e8b0c9e0db921cc
+run_name: bold-panda-686
+run_uuid: 064e13badb2b46979e8b0c9e0db921cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395743688
+status: 3
+tags: []
+user_id: aditya

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/abce88177d0442cf98f731bd3a0b26a5/artifacts
+deleted_time: 1731396266084
+end_time: 1731396237606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: abce88177d0442cf98f731bd3a0b26a5
+run_name: dazzling-whale-734
+run_uuid: abce88177d0442cf98f731bd3a0b26a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396232986
+status: 3
+tags: []
+user_id: aditya

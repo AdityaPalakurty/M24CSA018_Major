@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/b9b6451c2ee644769a3ef6cc529d73ac/artifacts
+deleted_time: 1731396266097
+end_time: 1731395498667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b9b6451c2ee644769a3ef6cc529d73ac
+run_name: clumsy-pug-709
+run_uuid: b9b6451c2ee644769a3ef6cc529d73ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395498653
+status: 3
+tags: []
+user_id: aditya

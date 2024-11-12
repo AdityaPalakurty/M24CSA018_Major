@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/2014c6d9d1b3484ea14a3fc1aac6c1c5/artifacts
+deleted_time: 1731396266107
+end_time: 1731395498642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2014c6d9d1b3484ea14a3fc1aac6c1c5
+run_name: intrigued-colt-472
+run_uuid: 2014c6d9d1b3484ea14a3fc1aac6c1c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395494103
+status: 3
+tags: []
+user_id: aditya

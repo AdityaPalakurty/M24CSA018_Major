@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/cdd1b556bb84427fb9191bf7c1496da9/artifacts
+deleted_time: 1731394987821
+end_time: 1731394803858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cdd1b556bb84427fb9191bf7c1496da9
+run_name: unequaled-wolf-138
+run_uuid: cdd1b556bb84427fb9191bf7c1496da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394801299
+status: 4
+tags: []
+user_id: aditya

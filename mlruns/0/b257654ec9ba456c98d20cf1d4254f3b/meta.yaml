@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/b257654ec9ba456c98d20cf1d4254f3b/artifacts
+deleted_time: 1731395475059
+end_time: 1731395301273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b257654ec9ba456c98d20cf1d4254f3b
+run_name: shivering-eel-487
+run_uuid: b257654ec9ba456c98d20cf1d4254f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395296819
+status: 3
+tags: []
+user_id: aditya

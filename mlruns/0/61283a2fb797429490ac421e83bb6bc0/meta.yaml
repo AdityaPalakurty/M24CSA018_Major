@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/61283a2fb797429490ac421e83bb6bc0/artifacts
+deleted_time: 1731396272924
+end_time: 1731396235144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 61283a2fb797429490ac421e83bb6bc0
+run_name: silent-fawn-194
+run_uuid: 61283a2fb797429490ac421e83bb6bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396232994
+status: 3
+tags: []
+user_id: aditya

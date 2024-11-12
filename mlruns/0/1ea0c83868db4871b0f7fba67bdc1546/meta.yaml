@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/1ea0c83868db4871b0f7fba67bdc1546/artifacts
+deleted_time: 1731395342231
+end_time: 1731395132714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1ea0c83868db4871b0f7fba67bdc1546
+run_name: masked-goose-462
+run_uuid: 1ea0c83868db4871b0f7fba67bdc1546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395132678
+status: 3
+tags: []
+user_id: aditya

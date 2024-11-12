@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/bf57c7851e614c6396ed2aa055630710/artifacts
+end_time: 1731396297153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf57c7851e614c6396ed2aa055630710
+run_name: clumsy-fox-964
+run_uuid: bf57c7851e614c6396ed2aa055630710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396294596
+status: 3
+tags: []
+user_id: aditya

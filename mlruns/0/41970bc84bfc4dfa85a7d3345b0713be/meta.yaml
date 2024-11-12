@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/41970bc84bfc4dfa85a7d3345b0713be/artifacts
+deleted_time: 1731396272914
+end_time: 1731395730806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 41970bc84bfc4dfa85a7d3345b0713be
+run_name: persistent-kit-6
+run_uuid: 41970bc84bfc4dfa85a7d3345b0713be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395728493
+status: 3
+tags: []
+user_id: aditya

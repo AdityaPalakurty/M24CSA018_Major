@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/3eee08832eb54030918ef92061a35dd5/artifacts
+deleted_time: 1731396272893
+end_time: 1731396237605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3eee08832eb54030918ef92061a35dd5
+run_name: dashing-skink-132
+run_uuid: 3eee08832eb54030918ef92061a35dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396235145
+status: 3
+tags: []
+user_id: aditya

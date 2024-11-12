@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/44c8d27c8d9c42749a4020a431f4df5d/artifacts
+deleted_time: 1731394987820
+end_time: 1731394570618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 44c8d27c8d9c42749a4020a431f4df5d
+run_name: debonair-hen-482
+run_uuid: 44c8d27c8d9c42749a4020a431f4df5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731394567049
+status: 4
+tags: []
+user_id: aditya

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/e4649e65a75749cc8458cccbe1b6c31e/artifacts
+deleted_time: 1731395475062
+end_time: 1731395128959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e4649e65a75749cc8458cccbe1b6c31e
+run_name: clean-tern-609
+run_uuid: e4649e65a75749cc8458cccbe1b6c31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395126862
+status: 3
+tags: []
+user_id: aditya

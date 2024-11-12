@@ -1,0 +1,16 @@
+artifact_uri: file:///home/aditya/M24CSA018_Major/mlruns/0/f8adad365aad4a6190b22d42e728de4f/artifacts
+deleted_time: 1731396266045
+end_time: 1731396237647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f8adad365aad4a6190b22d42e728de4f
+run_name: sedate-panda-409
+run_uuid: f8adad365aad4a6190b22d42e728de4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396237613
+status: 3
+tags: []
+user_id: aditya
